@@ -18,8 +18,6 @@ jobs:
         run: yarn install
       - name: Build the library
         run: yarn build
-              - name: Build the library
-        run: yarn build
       - name: Publish the package
         run: npm publish --access=public
         env:
