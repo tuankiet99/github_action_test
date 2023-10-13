@@ -1,5 +1,5 @@
 {
-  "name": "desnet_public_npm",
+  "name": "desnet-cs01-k",
   "version": "1.0.0",
   "description": "CS01: Blockchain Development on Ethereum with Solidity and Hardhat",
   "main": "dist/index.js",
